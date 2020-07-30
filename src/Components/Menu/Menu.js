@@ -2,7 +2,6 @@ import React from 'react';
 import Logo from '../../assets/img/Logo.png';
 import ButtonNav from '../Button/ButtonNav'
 import './Menu.css'
-import { Link }  from 'react';
 
 const Menu = () => {
 

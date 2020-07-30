@@ -38,7 +38,12 @@
     body {
       --bodyPaddingTop: 40px;
       padding-top: var(--bodyPaddingTop);
+
     }
+    .Caroucel {
+      width: 100%;
+    }
+    
   }
   
   
