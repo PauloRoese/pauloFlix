@@ -1,6 +1,8 @@
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
-const ButtonNav = styled.button`
+/* const ButtonNav = styled.button` */
+const ButtonNav = styled(Link)`
     color: var(--white);
     border: 1px solid var(--white);
     box-sizing: border-box;
